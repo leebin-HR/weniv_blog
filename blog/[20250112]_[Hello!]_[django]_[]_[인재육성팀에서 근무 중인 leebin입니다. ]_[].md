@@ -1,6 +1,6 @@
-# test1 제목입니다. 테스트 파일입니다.
+# Leebin의 HR story.
 
-* hello world 1
+* hello! HR world :)
 
 안녕하세요. 반도체 회사의 인재육성팀에서 근무 중인 1년차 HR러 Leebin 입니다.
 
